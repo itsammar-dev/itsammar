@@ -7,7 +7,7 @@ I'm currently pursuing a double major in Applied Mathematics and Chemistry while
 Previously, I've built: 
 - Designed research data pipelines for physiological data
 - Developed full-stack applications with Next.js, Prisma, Supabase, and AWS
-- Blockchain tools, experimented with strategies etc.
+- Explored blockchain analytics, experimenting with algorithms for token and market analysis
 
 Outside of being a student and researcher, I love trying new coffee orders, writing, reading, and diving into random topics just for the joy of learning. I’m also passionate about expanding the reach of healthcare and education to underserved populations, and I’m constantly sketching out new project ideas around that mission.
 
